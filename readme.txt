@@ -1,5 +1,14 @@
 this is a read me file
 
+[to push a file from local, do the below...]
+1. git add
+2. git status to check the differences
+3. git commit
+4. git push
+
+[to retreive to local]
+
+
 UM-L51FHTD7:second_day_stuff raviakkiraju$ git init
 Reinitialized existing Git repository in /Users/raviakkiraju/Desktop/code/second_day_stuff/.git/
 
