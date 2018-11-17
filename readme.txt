@@ -7,7 +7,7 @@ this is a read me file
 4. git push
 
 [to retreive to local]
-
+1. git pull
 
 UM-L51FHTD7:second_day_stuff raviakkiraju$ git init
 Reinitialized existing Git repository in /Users/raviakkiraju/Desktop/code/second_day_stuff/.git/
